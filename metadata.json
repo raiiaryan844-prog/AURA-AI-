@@ -1,0 +1,6 @@
+{
+  "name": "HP Snapdragon OmniFlow - ARM64 & 45 TOPS NPU Productivity Suite",
+  "description": "On-Device Local AI & ARM64 Multitasking Optimization Suite built for Snapdragon-powered HP PCs with Qualcomm AI Hub & ONNX QNN NPU acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
